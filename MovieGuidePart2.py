@@ -2,9 +2,6 @@
 # CIS261
 # Lab title: Movie Guide Part 2
 
-from pathlib import Path
-
-
 FILENAME = "movies.txt"
 
 
